@@ -67,7 +67,7 @@ When contributing, make sure to follow the coding standards defined in the ESLin
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is not licensed.
 
 ---
 
